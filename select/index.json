@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "THE HERO !! ～怒れる拳に火をつけろ～ (TV Size)",
+  "base_artist": "JAM Project",
+  "createdAt": "2025-12-26T03:54:39.011375Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Hero",
+      "artist": "Amon Amarth",
+      "has_synced": false,
+      "path": "select/01_The_Hero_Amon_Amarth.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Hero",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/02_The_Hero_Queen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Zero the Hero",
+      "artist": "Black Sabbath",
+      "has_synced": false,
+      "path": "select/03_Zero_the_Hero_Black_Sabbath.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Zero The Hero",
+      "artist": "Godflesh",
+      "has_synced": false,
+      "path": "select/04_Zero_The_Hero_Godflesh.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Zero the Hero",
+      "artist": "Cannibal Corpse",
+      "has_synced": true,
+      "path": "select/05_Zero_the_Hero_Cannibal_Corpse.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Zero The Hero",
+      "artist": "Cannibal Corpse",
+      "has_synced": false,
+      "path": "select/06_Zero_The_Hero_Cannibal_Corpse.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Save The Hero",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/07_Save_The_Hero_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'm in Love With the Hero",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/08_I'm_in_Love_With_the_Hero_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Search for the Hero",
+      "artist": "M People",
+      "has_synced": true,
+      "path": "select/09_Search_for_the_Hero_M_People.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Just A Friend (feat. Hyro The Hero)",
+      "artist": "AWOLNATION feat. Hyro The Hero",
+      "has_synced": true,
+      "path": "select/10_Just_A_Friend_(feat._Hyro_The_Hero)_AWOLNATION_feat._Hyro_The_Hero.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Hero, The Saint, The Tyrant, & The Terrorist",
+      "artist": "The Reign of Kindo",
+      "has_synced": true,
+      "path": "select/11_The_Hero,_The_Saint,_The_Tyrant,_&_The_Terrorist_The_Reign_of_Kindo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Zero the Hero (Live on the BBC Friday Rock Show at The Reading Festival, Saturday August 27th 1983)",
+      "artist": "Black Sabbath",
+      "has_synced": false,
+      "path": "select/12_Zero_the_Hero_(Live_on_the_BBC_Friday_Rock_Show_at_The_Reading_Festival,_Saturda_Black_Sabbath.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Zero the Hero (2009 Remaster)",
+      "artist": "Black Sabbath",
+      "has_synced": true,
+      "path": "select/13_Zero_the_Hero_(2009_Remaster)_Black_Sabbath.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Hero Dies In This One",
+      "artist": "The Ataris",
+      "has_synced": true,
+      "path": "select/14_The_Hero_Dies_In_This_One_The_Ataris.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Zero the Hero & the Witch's Spell",
+      "artist": "Gong",
+      "has_synced": false,
+      "path": "select/15_Zero_the_Hero_&_the_Witch's_Spell_Gong.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Zero The Hero And The Witch's Spell",
+      "artist": "Gong",
+      "has_synced": false,
+      "path": "select/16_Zero_The_Hero_And_The_Witch's_Spell_Gong.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HERO",
+      "artist": "JAM Project",
+      "has_synced": false,
+      "path": "select/pl_01_HERO_JAM_Project.txt"
+    }
+  ]
+}
